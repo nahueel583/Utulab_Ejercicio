@@ -3,12 +3,13 @@
 ## **Organizador de tareas diarias**
 
 ### Descripcion
+Un organizador de tareas liviano diseñado para la gestión y seguimiento del flujo de trabajo diario.
 
 -agregar tareas
 -editar tareas
 -eliminar tareas
 
-#Tecnologias
+# Tecnologías
 1. HTML
 2. CSS
 3. JS
